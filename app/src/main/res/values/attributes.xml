@@ -5,5 +5,6 @@
     <attr name="theme_search_view_style" format="reference|color"/>
     <attr name="theme_text_color" format="reference|color"/>
     <attr name="theme_icon_background" format="reference|color"/>
+    <attr name="theme_icon" format="reference|color"/>
 
 </resources>

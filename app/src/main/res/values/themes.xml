@@ -11,7 +11,8 @@
         <item name="theme_background">@color/backgrount_color</item>
         <item name="theme_search_view_style">@color/white</item>
         <item name="theme_text_color">@color/black</item>
-        <item name="theme_icon_background">@color/backgrount_color</item>
+        <item name="theme_icon_background">@color/white</item>
+        <item name="theme_icon">@color/black</item>
 
     </style>
 
