@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TradeApp</string>
+    <string name="hello">Hello,</string>
+    <string name="hari_prasad">Hari Prasad</string>
+    <string name="search">Search</string>
+    <string name="featured">Featured</string>
+    <string name="all">All</string>
+    <string name="categories">Categories</string>
+    <string name="electronics">Electronics</string>
+</resources>
