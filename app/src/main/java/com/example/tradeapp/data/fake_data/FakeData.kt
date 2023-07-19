@@ -227,7 +227,7 @@ class FakeData {
                 id = UUID.randomUUID().toString(),
                 title = "Orient AG03001W",
                 isSimpleNote = true,
-                description =  "Japanese mechanical",
+                description =  "Orient AG03001W",
                 imageId = "https://www.alltime.ru/obj/catalog/watch/orient/img/big/AG03001W.jpg"
             ),
             Category(
@@ -243,12 +243,12 @@ class FakeData {
                 title = "Skullcandy Method Active Wireless Headphones",
                 isSimpleNote = true,
                 imageId = "https://thumb.tildacdn.com/tild3365-3834-4530-b931-306639303339/-/format/webp/method_active_wirele.jpg",
-                description = "Wireless Headphone",
+                description = "Skullcandy Method",
             ),
 
             Category(
                 id = UUID.randomUUID().toString(),
-                title = "Skullcandy Venue Headphones",
+                title = "Headphone",
                 isSimpleNote = true,
                 imageId = "https://thumb.tildacdn.com/tild6338-6362-4761-a435-366432316137/-/format/webp/venue_black.jpg",
                 description = "Headphones",
@@ -257,9 +257,9 @@ class FakeData {
 
             Category(
                 id = UUID.randomUUID().toString(),
-                title = "JBL Flip Essential (Original) Column",
+                title = "JBL Flip",
                 imageId = "https://www.gadget.kg/upload/catalog/57/item_5622/7efab3899b54f83ea028702115ff49b7.jpg",
-                description = "Column",
+                description = "JBL Flip",
                 isSimpleNote = true
             ),
         )
